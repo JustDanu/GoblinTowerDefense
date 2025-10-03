@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffb4513b186305546877013801a17dda, type: 3}
+  m_Name: Fast Rock Tower 1
+  m_EditorClassIdentifier: 
+  upgradeName: Fast Rock Tower
+  towerIDIndex: 0
+  towerID: 1
+  placeOffSet: {x: -0.05, y: 0.25}
+  cost: 20
+  upgradePrefab: {fileID: 5449442932301813616, guid: 014f6aa3fd0b94a48a453f60cc430b22, type: 3}

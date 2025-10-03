@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffb4513b186305546877013801a17dda, type: 3}
+  m_Name: Heavy Rock Tower 1
+  m_EditorClassIdentifier: 
+  upgradeName: Heavy Rock Tower
+  towerIDIndex: 0
+  towerID: 2
+  placeOffSet: {x: 0.15, y: 0.35}
+  cost: 25
+  upgradePrefab: {fileID: 1182520626552519650, guid: 20cf78dd9867bae4b8506e17c71d2f17, type: 3}
